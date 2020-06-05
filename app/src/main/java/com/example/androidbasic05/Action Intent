@@ -1,0 +1,8 @@
+
+
+Intent.ACTION_VIEW      -> 데이터를 전달하여 표시하는 용도
+Intent.ACTION_DIAL      -> 전화번호를 전달하여 다이얼 화면을 띄우는 용도
+Intent.ACTION_GET_CONTENT   -> 파일 데이터의 사본을 가져오는 용도
+Intent.ACTION_OPEN_DOCUMENT -> 파일을 열어 직접 핸들링 하는 용도
+Intent.ACTION_WEB_SEARCH    -> 웹 검색 화면을 띄우는 용도
+Intent.ACTION_SEND      -> 데이터를 공유하는 용도
